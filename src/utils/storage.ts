@@ -11,3 +11,5 @@ const storage = {
         localStorage.removeItem(storagePrefix + key)
     }
 }
+
+export default storage
