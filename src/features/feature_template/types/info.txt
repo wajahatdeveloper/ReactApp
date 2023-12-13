@@ -1,0 +1,1 @@
+typescript types for TS specific feature domain
